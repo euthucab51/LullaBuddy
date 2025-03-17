@@ -7,11 +7,11 @@
 #define CAMERA_MODEL_XIAO_ESP32S3 // Has PSRAM
 #include "pins_layout.h"
 
-
+// For testing
 // -----------------------------
 // WiFi and Streaming Credentials
 // -----------------------------
-const char* ssid     = "aalto open";
+const char* ssid     = "yuuu";
 const char* password = "";
 
 // -----------------------------
